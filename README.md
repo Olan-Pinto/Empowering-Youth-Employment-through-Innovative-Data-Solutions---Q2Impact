@@ -61,3 +61,12 @@ All submission materials, including the notebook, presentation, and elevator pit
 - The **notebook structure** ensures raw data can be seamlessly transformed into a usable format for the web application.  
 
 For more details, refer to the **presentation and elevator pitch** included in the submission.  
+
+
+---
+## **Contributors**
+I'd like to acknowledge the valuable contributions of my team members:
+
+- [Shivani Madan](https://www.linkedin.com/in/shivani-madan-9b7048200/)  
+- [Yuni Wu](https://www.linkedin.com/in/wih/)
+- [Daniel Wesely](https://www.linkedin.com/in/dan-wesely-32245b11/)
